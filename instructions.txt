@@ -6,5 +6,3 @@ Lorem ipsum dolor sit amet,
 Installation on IIS
 -------------------
 Content goes here 
-
-Also, fix your issues #7
